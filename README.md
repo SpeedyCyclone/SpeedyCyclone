@@ -12,4 +12,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-!(https://github.com/SpeedyCyclone/SpeedyCyclone/blob/main/bg.svg)
+<img src="/bg" width="128"/>
