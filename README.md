@@ -12,4 +12,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<img src="/bg.svg" width="100%"/>
+![Example](/bg.svg)
