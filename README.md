@@ -11,11 +11,11 @@
  <hr/>
 <h1 align="center">💻 Tech Stack:</h1>
 
-<p align="center">
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,astro,aws,bash,bootstrap,codepen,css,discord,bots,express,firebase,figma,git,github,html,js,jquery,md,materialui,mongodb,netlify,nextjs,nodejs,postgres,postman,prisma,react,regex,replit,stackoverflow,supabase,tailwind,unity,ts,vercel,vscode,webpack" /><br>
 </div>
-</p>
+
  <hr/>
 
 <h1 align="center">📊 GitHub Stats:</h1>
